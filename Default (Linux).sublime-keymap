@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["ctrl+alt+c"], "command": "css_sort",
+		"context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json,source.css"}]
+	}
+]
